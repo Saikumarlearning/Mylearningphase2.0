@@ -1,0 +1,10 @@
+pipeline{
+agentany
+states{
+state('stagename'){
+steps{
+     }
+      }
+   }
+  }
+
